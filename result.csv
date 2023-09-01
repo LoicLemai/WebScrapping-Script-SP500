@@ -1,0 +1,9 @@
+,Indicateur,Valeur,Type de Position
+0,RSI(14),66.622,Achat
+1,"STOCH(9,6)",37.74,Achat
+2,STOCHRSI(14),54.488,Achat
+3,"MACD(12,26)",19.67,Achat
+4,ADX(14),39.494,Achat
+5,Williams %R,-25.286,Achat
+6,CCI(14),129.0114,Achat
+7,ATR(14),13.7851,Achat
